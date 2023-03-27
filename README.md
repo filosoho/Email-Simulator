@@ -14,7 +14,7 @@ Clone this repository to your local machine. Navigate to the program's directory
 
 Simply run the program:
 ```
-email_simulator.py
+email.py
 ```
 <br>
 
